@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoDeTalentos.Modelo", "BancoDeTalentos.Modelo\BancoDeTalentos.Modelo.csproj", "{E75A8EDE-6F19-493D-82ED-F3AED5BDC3A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoDeTalentos.Entity", "BancoDeTalentos.Entity\BancoDeTalentos.Entity.csproj", "{B0FBE2F1-2AD6-4764-93AA-80EC9962BDBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoDeTalentos.Web", "BancoDeTalentos.Web\BancoDeTalentos.Web.csproj", "{C0DA21D4-0AC6-4AC8-BC08-464D4ED7CC95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E75A8EDE-6F19-493D-82ED-F3AED5BDC3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E75A8EDE-6F19-493D-82ED-F3AED5BDC3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E75A8EDE-6F19-493D-82ED-F3AED5BDC3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E75A8EDE-6F19-493D-82ED-F3AED5BDC3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0FBE2F1-2AD6-4764-93AA-80EC9962BDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FBE2F1-2AD6-4764-93AA-80EC9962BDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FBE2F1-2AD6-4764-93AA-80EC9962BDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FBE2F1-2AD6-4764-93AA-80EC9962BDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0DA21D4-0AC6-4AC8-BC08-464D4ED7CC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0DA21D4-0AC6-4AC8-BC08-464D4ED7CC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0DA21D4-0AC6-4AC8-BC08-464D4ED7CC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0DA21D4-0AC6-4AC8-BC08-464D4ED7CC95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35;packages\Unity.Interception.2.1.505.0\lib\NET35;packages\EnterpriseLibrary.Common.5.0.505.0\lib\NET35;packages\EntLibContrib.Common.Configuration.Autofac.5.0.505.0\lib\NET35
+	EndGlobalSection
+EndGlobal

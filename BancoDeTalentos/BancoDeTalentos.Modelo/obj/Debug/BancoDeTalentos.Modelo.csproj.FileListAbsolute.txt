@@ -1,0 +1,10 @@
+X:\Projetos\BancoDeTalentos\BancoDeTalentos.Modelo\bin\Debug\BancoDeTalentos.Modelo.dll.config
+X:\Projetos\BancoDeTalentos\BancoDeTalentos.Modelo\bin\Debug\BancoDeTalentos.Modelo.dll
+X:\Projetos\BancoDeTalentos\BancoDeTalentos.Modelo\bin\Debug\BancoDeTalentos.Modelo.pdb
+X:\Projetos\BancoDeTalentos\BancoDeTalentos.Modelo\bin\Debug\EntityFramework.dll
+X:\Projetos\BancoDeTalentos\BancoDeTalentos.Modelo\bin\Debug\EntityFramework.SqlServer.dll
+X:\Projetos\BancoDeTalentos\BancoDeTalentos.Modelo\bin\Debug\EntityFramework.xml
+X:\Projetos\BancoDeTalentos\BancoDeTalentos.Modelo\bin\Debug\EntityFramework.SqlServer.xml
+X:\Projetos\BancoDeTalentos\BancoDeTalentos.Modelo\obj\Debug\BancoDeTalentos.Modelo.csprojResolveAssemblyReference.cache
+X:\Projetos\BancoDeTalentos\BancoDeTalentos.Modelo\obj\Debug\BancoDeTalentos.Modelo.dll
+X:\Projetos\BancoDeTalentos\BancoDeTalentos.Modelo\obj\Debug\BancoDeTalentos.Modelo.pdb
